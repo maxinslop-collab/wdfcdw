@@ -1,0 +1,15 @@
+delay: 5
+cooldown: 20
+worlds:
+ - world
+ - world_nether
+ - world_the_end
+radius:
+  min: 1000
+  max: 20000
+messages:
+  gui-title: "&bSelect World"
+  cooldown: "&cYou must wait &e%s &cmore seconds to RTP!"
+  teleporting: "&7Teleporting in &9%s &7seconds"
+  cancelled: "&cTeleport cancelled because you moved!"
+  done: "&7Teleported!"
